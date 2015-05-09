@@ -9,8 +9,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: profiles/opigno_lms/modules/contrib/homebox/homebox.js
+#, fuzzy
 msgid "Minimize"
-msgstr "Minimiza"
+msgstr "Minimize"
 
 #: profiles/opigno_lms/modules/contrib/apps/theme/js/apps-voting.js
 msgid "Failed to save vote. Please try again later."
@@ -38,7 +39,7 @@ msgstr ""
 
 #: 
 msgid "Delete selected files?"
-msgstr ""
+msgstr "Delete os arquivos selecionados?"
 
 #: 
 msgid "Please select a thumbnail."
@@ -50,7 +51,7 @@ msgstr ""
 
 #: 
 msgid "Please select a file."
-msgstr ""
+msgstr "Por favor seleciona um arquivo."
 
 #: 
 msgid "Log messages"
@@ -70,7 +71,7 @@ msgstr ""
 
 #: 
 msgid "Insert file"
-msgstr ""
+msgstr "Inserir arquivo"
 
 #: /opigno1.1/admin/config/regional/language
 msgid "You did not move this alternative to any hotspot"
@@ -78,15 +79,15 @@ msgstr ""
 
 #: /opigno1.1/admin/config/regional/language
 msgid "Wrong answer"
-msgstr ""
+msgstr "Resposta errada"
 
 #: /opigno1.1/admin/config/regional/language
 msgid "Correct answer"
-msgstr ""
+msgstr "Resposta correta"
 
 #: /opigno1.1/admin/config/regional/language
 msgid "URL (content create)"
-msgstr ""
+msgstr "URL (criar conteúdo) "
 
 #: /opigno1.1/admin/config/regional/language
 msgid "Select groups if they were passed in the node create URL (e.g. node/add/post?og_group_ref=4,5,6). <em>Note: Depends on <a href=\"@url\">Entity reference prepopulate</a> module, and enabling \"Prepopulate\" in the field settings.</em>"
